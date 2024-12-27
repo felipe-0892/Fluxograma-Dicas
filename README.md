@@ -7,12 +7,12 @@
 
 - Componentes básicos (formas e símbolos).
 
-![Exemplo de fluxograma](imagem_01.jpg)
-![Exemplo de fluxograma](imagem_05.jpg)
+![Exemplo de fluxograma](imagem_01.jpeg)
+![Exemplo de fluxograma](imagem_05.jpeg)
 
 ### **Tipos de dados de um fluxograma**
 
-![Exemplo de fluxograma](imagem_03.jpg)
+![Exemplo de fluxograma](imagem_03.jpeg)
 
 ## **Ferramentas para Criar Fluxogramas**
 
