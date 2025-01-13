@@ -16,7 +16,8 @@
 
 ## **Ferramentas para Criar Fluxogramas**
 
-Microsoft Visio
-Lucidchart
-Draw.io (recomendado)
-Outras opções gratuitas e pagas.
+- Microsoft Visio
+- Lucidchart
+- Draw.io (recomendado)
+- Visual Paradigm Online
+- Outras opções gratuitas e pagas.
